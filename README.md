@@ -16,3 +16,5 @@ If you want to play with NN's (specifically the ones here) you'll install torch.
 Finally once you run it'll complain the game is missing, so you'll basically just copy/paste the Super Mario World folder, and rename it, and replace the relevant files with what I have in this repo. You'll need to go include your rom, I have to convert mine to sfc which there is an online one that works fine. Copy that into the folder and the game should start working.
 
 If you want to start from Zebes you can set the default to zebes, or ceres or whatever, *or* you can specifically tell it which level. (this is noted in openai's docs, so I'd have to go look it up at some point).
+
+Just confirmed that the offsets for the missiles are wrong, so, so far HP might be the only correct item.
